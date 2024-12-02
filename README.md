@@ -4,12 +4,12 @@ Teste prático. Objetivo criar um script em Python para realizar a migração de
 
 ## Desafios Encontrados
 
-- **Tratamento de dados inconsistentes**: Muitas informações vinham em formatos não padronizados, como números de processos como strings ou códigos de clientes em formatos não unificados.
-- **Formatação das datas**: Garantir que as datas fossem padronizadas no formato correto para a migração.
-- **Múltiplos encodings:** Durante a leitura dos arquivos extraídos, foi necessário detectar e ajustar dinamicamente o encoding dos arquivos para evitar erros de leitura, já que os arquivos não seguiam um padrão único.
-- **Integração de diferentes fontes de dados**: As tabelas continham informações relacionadas, mas com diferentes identificadores, exigindo a combinação e o mapeamento adequado.
-- **Integração de Funções:** Garantir que as funções de extração, tratamento e formatação trabalhem juntas dentro do fluxo da interface.
-- **Tempo Limitado:** O prazo curto para execução do teste exigiu priorização de tarefas e soluções simplificadas, com foco em entregar uma solução funcional. Com isso, a complexidade das tarefas teve que ser gerenciada de forma rápida e eficiente.
+- ***Tratamento de dados inconsistentes***: Muitas informações vinham em formatos não padronizados, como números de processos como strings ou códigos de clientes em formatos não unificados.
+- ***Formatação das datas***: Garantir que as datas fossem padronizadas no formato correto para a migração.
+- ***Múltiplos encodings:*** Durante a leitura dos arquivos extraídos, foi necessário detectar e ajustar dinamicamente o encoding dos arquivos para evitar erros de leitura, já que os arquivos não seguiam um padrão único.
+- ***Integração de diferentes fontes de dados***: As tabelas continham informações relacionadas, mas com diferentes identificadores, exigindo a combinação e o mapeamento adequado.
+- ***Integração de Funções:*** Garantir que as funções de extração, tratamento e formatação trabalhem juntas dentro do fluxo da interface.
+- ***Tempo Limitado:*** O prazo curto para execução do teste exigiu priorização de tarefas e soluções simplificadas, com foco em entregar uma solução funcional. Com isso, a complexidade das tarefas teve que ser gerenciada de forma rápida e eficiente.
 
 ## TODO - Etapas Finais para o Tratamento de Dados
 
